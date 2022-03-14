@@ -15,15 +15,15 @@ return `┏━━━━━━━━━━━━━━━━━━━━
 ┣━━⊱❉ *💰 E-WALLET* ❉⊰━━━✿
 ┃   
 ┣━⊱ *GOPAY*
-┣⊱ 0895 2551 8325
+┣⊱ CHAT OWNER
 ┣━━✿ NAMA GOPAY ${ownername}
 ┃
 ┣━⊱ *DANA*
-┣⊱ 0812 8586 6502
+┣⊱ 087788069091
 ┣━━✿ NAMA DANA ${ownername}
 ┃
 ┣━⊱ *PULSA*
-┣⊱ 0812 8586 6502
+┣⊱ 087788069091
 ┣━━✿ NAMA PULSA ${ownername}
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━
